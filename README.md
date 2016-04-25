@@ -1,2 +1,4 @@
 # particle-ionic
-A couple of services and a directive for handling particle.io interaction with ionic framework
+## A demonstration for particle.io and ionic
+### Making IOT creation as easy as possible
+Services and a directive for handling particle.io interaction with ionic framework
